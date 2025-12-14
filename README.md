@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.13.3%2B-blue)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-Submitted-green)](https://github.com/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17931263.svg)](https://doi.org/10.5281/zenodo.17931263)
 
 ## 📄 Overview
 This repository contains the source code, data processing pipelines, and statistical analysis for the research paper: **"The Schizophrenia of Global Food Safety."**
