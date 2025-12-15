@@ -30,9 +30,9 @@ The analytical framework is divided into two phases: **Individual System Assessm
 ### 🔹 Phase 1: Individual System Analysis (Baseline)
 *Foundational exploratory analysis of each regulatory system in isolation.*
 * **`FDA_Import_Food_Refusals_Audit.ipynb`**: Detailed breakdown of FDA "Refusals" by product code, port of entry, and violation charge (2001–2025).
-* **Repoitory Address**: **[FDA-Import-Refusal-Audit](https://github.com/shafinahamed9/.git)**
+* **Repository Address**: **[FDA-Import-Refusal-Audit](https://github.com/shafinahamed9/.git)**
 * **`RASFF_Alert_Analysis.ipynb`**: Detailed breakdown of RASFF "Notifications" by notification type (Alert/Border Rejection) and risk decision.
-* **Repoitory Address**: **[RASFF-Food-Safety-Alerts-Analysis](https://github.com/shafinahamed9/.git)**
+* **Repository Address**: **[RASFF-Food-Safety-Alerts-Analysis](https://github.com/shafinahamed9/.git)**
 
 ### 🔹 Phase 2: Comparative Analysis (The Paper)
 *The core code used to generate the findings and figures in the manuscript.*
